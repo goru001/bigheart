@@ -13,3 +13,5 @@ If you see any flaws in the mechanism, you are most-welcome to get in contact wi
 
 Also, if you see any bug on the website or wish to collaborate in coding, you are welcome to contribute.
 Just send an Email to giganticgemmic@gmail.com or akashattri.chd@gmail.com. 
+
+PS : Our most important functionality that we haven't implemented yet, is to build an anonymous chat application. If you can contribute in that, we would love to have you with us!
