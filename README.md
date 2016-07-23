@@ -11,6 +11,15 @@ ZeroLevelDFD and the FirstLevelDFD explain the gist of all the processes involve
 
 If you see any flaws in the mechanism, you are most-welcome to get in contact with us!
 
+######Our Technology Stack 
+1. Python-Django 1.9.7
+2. MySql DataBase
+3. Apache Server
+4. HereToCare has been deployed on Linux System(Ubuntu 16.04), Amazon Cloud (AWS).
+5. Apache-Solr (Search-Backend), using PySolr and Haystack!
+
+Languages Used: Python2.7, Javascript, Ajax, HTML5, CSS.
+
 Also, if you see any bug on the website or wish to collaborate in coding, you are welcome to contribute.
 Just send an Email to giganticgemmic@gmail.com or akashattri.chd@gmail.com. 
 
